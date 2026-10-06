@@ -75,8 +75,8 @@ Make sure you have **FFmpeg** installed (required by Whisper for audio decoding)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/audio-whisperizer.git
-   cd audio-whisperizer
+   git clone https://github.com/sbbxiii/Audio-Whisperizer.git
+   cd Audio-Whisperizer
    ```
 
 2. Create and activate a virtual environment:
